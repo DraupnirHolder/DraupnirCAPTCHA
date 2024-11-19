@@ -30,6 +30,10 @@ Draupnir Captcha - это современная система проверки
 - Выберите фигуры в правильном порядке (от 1 до 5)
 - После корректного выбора появится сообщение "Проверка пройдена!"
 
+## 🔗 Ссылки
+### Демонстрация
+[🖥️ Сайт на бесплатном хостинге](http://i98070be.beget.tech/)
+
 ## 🤝 Вклад в проект
 
 Мы открыты для pull requests и issues. Пожалуйста, следуйте стандартным GitHub workflow.
@@ -68,6 +72,10 @@ Draupnir Captcha is a modern user authentication system using visual captcha. Th
 
 - Select figures in the correct order (from 1 to 5)
 - After correct selection, a message "Verification passed!" will appear
+
+## 🔗 Links
+### Demonstration
+[![Live Demo](https://img.shields.io/badge/🖥️%20Live%20Demo-Free%20Hosting-green)](http://i98070be.beget.tech/)
 
 ## 🤝 Contributing
 
