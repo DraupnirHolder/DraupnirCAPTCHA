@@ -32,7 +32,7 @@ Draupnir Captcha - это современная система проверки
 
 ## 🔗 Ссылки
 ### Демонстрация
-[🖥️ Сайт на бесплатном хостинге](http://i98070be.beget.tech/)
+[![Live Demo](https://img.shields.io/badge/🖥️%20Live%20Demo-Free%20Hosting-green)](http://i98070be.beget.tech/)
 
 ## 🤝 Вклад в проект
 
@@ -55,6 +55,9 @@ Draupnir Captcha is a modern user authentication system using visual captcha. Th
 - Multi-level verification system
 - Russian language support
 - Minimalist design with runic stylistic elements
+
+## Interface screenshot
+<img src="./captcha-screen.png" alt="Draupnir Captcha main frame" width="600">
 
 ## 🛠 Technologies
 
